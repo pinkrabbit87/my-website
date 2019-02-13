@@ -1,0 +1,147 @@
+body{
+  margin: 0;
+text-align:center;
+font-family: 'Lato', sans-serif;
+font-size:100%
+}
+
+h1{margin:0 auto;
+font-family: 'Architects Daughter', cursive;
+font-size:5rem;
+margin:50px auto 10px;
+color:#d84c73;}
+
+h2{font-family: 'Boogaloo', cursive;
+font-size:2rem;
+color:#d84c73;
+font-weight:normal;}
+
+h3{font-family:'Montserrat',sans-serif;
+font-size:1rem;
+color:#970690;}
+
+p
+{line-height: 2;}
+
+.profile{width:50%;
+text-align:center;
+margin:auto;}
+
+
+.top-container
+{background-color: #ffe0e0;
+position:relative;
+padding-top:100px;
+}
+
+.bottom-cloud{position:absolute;
+left:200px;
+bottom:250px;}
+
+.top-cloud{position:absolute;
+  right:220px;
+  top:60px;}
+
+.middle-container{
+  background-color: #fffafa;
+  position:relative;
+}
+.my-profile
+{border-radius: 50%;
+margin-top:50px;}
+
+.my-children
+{width:50%;
+text-align: center;
+margin:50px auto;
+}
+.category-title
+{padding-top: 20px;}
+
+.my-husband
+{width:50%;
+text-align:center;
+margin:50px auto;}
+
+.mr-hankey-img
+{width:25%;
+float:left;}
+
+.kissing-emoji-img
+{width: 35%;
+float:right;
+margin-right:10px;}
+
+.furby-img{width:30%;
+float:left;}
+
+.dad-img{width:35%;
+border-radius:50%}
+
+.contact-me
+{width:35%;
+  text-align:center;
+  margin:auto;
+  padding-top:10px;
+}
+.butn {
+  background: #f5cce3;
+  background-image: -webkit-linear-gradient(top, #f5cce3, #f25e7c);
+  background-image: -moz-linear-gradient(top, #f5cce3, #f25e7c);
+  background-image: -ms-linear-gradient(top, #f5cce3, #f25e7c);
+  background-image: -o-linear-gradient(top, #f5cce3, #f25e7c);
+  background-image: linear-gradient(to bottom, #f5cce3, #f25e7c);
+  -webkit-border-radius: 17;
+  -moz-border-radius: 17;
+  border-radius: 17px;
+  -webkit-box-shadow: 0px 1px 3px #f797f7;
+  -moz-box-shadow: 0px 1px 3px #f797f7;
+  box-shadow: 0px 1px 3px #f797f7;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px;
+  text-decoration: none;
+  margin:auto;
+}
+
+.butn:hover {
+  background: #cb94f7;
+  background-image: -webkit-linear-gradient(top, #cb94f7, #db33d5);
+  background-image: -moz-linear-gradient(top, #cb94f7, #db33d5);
+  background-image: -ms-linear-gradient(top, #cb94f7, #db33d5);
+  background-image: -o-linear-gradient(top, #cb94f7, #db33d5);
+  background-image: linear-gradient(to bottom, #cb94f7, #db33d5);
+  text-decoration: none;
+}
+
+#invitation
+{padding-bottom:20px;}
+
+.bottom-container
+{background-color: #ffe0e0;
+position:relative;
+padding-top:70px;
+padding-bottom:30px;
+margin:50px auto auto auto;
+}
+
+.footer-link
+{text-decoration: none;
+font-size:15px;
+font-family:'Montserrat',sans-serif;
+padding:20px;}
+
+#footer
+{font-family:'Montserrat',sans-serif;
+font-size:12px;
+color:violet;
+padding:20px;}
+
+a:hover{color:purple;}
+
+hr{border:5px dotted grey;
+  border-bottom: none;
+  width:20%;
+  margin:20px auto;
+}
